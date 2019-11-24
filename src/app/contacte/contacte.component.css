@@ -1,0 +1,16 @@
+.content-contact{
+  animation: fadeInUp 500ms 1;
+}
+
+#socialpart{
+  border: solid #E0003F 1px;
+  border-radius: 15px;
+}
+
+.media_sociaux_titile{
+  color:#fff;
+  /* background-color: red; */
+  margin-top: -10px;
+  padding: 5px 15px;
+  border-radius: 15px;
+}

@@ -1,0 +1,51 @@
+.content_info{
+  animation: fadeInUp 500ms 1;
+}
+#infocardborder{
+    background-color: #ffffff;
+    transition: all 250ms;
+    border: solid #dbdbdb 1px;
+}
+
+#infocardborder:hover{
+    border: solid none 1px;
+    /* filter: drop-shadow(0px 0px 8px gray); */
+    transform: rotate(2deg);
+
+}
+
+#mytitles{
+    font-size: 1.5em;
+    color:red;
+    border-bottom: solid red 2px;
+    width:50%;
+    padding: 2px;
+    margin-bottom: 30px;
+}
+
+.nom{
+    font-size: 2em;
+    font-weight: bold;
+    font-family: arial ;
+    color:#333;
+    margin: 0;
+}
+
+.prenom{
+    font-size: 1.8em;
+    font-weight: bold;
+    font-family: arial ;
+    color:#333;
+    margin: 0;
+}
+.age{
+    font-size: 1.3em;
+    margin: 0;
+}
+.adress{
+
+}
+
+#onehobby:hover img{
+    animation: jello 1s 1;
+}

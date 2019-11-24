@@ -1,0 +1,55 @@
+.par{
+    /* background-image: linear-gradient(45deg,oldlace,#fff); */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    background-image: url("../../assets/2.jpeg");
+  }
+
+  #jumbotron{
+    margin: 0;
+    /* background-image: linear-gradient(
+      45deg,
+      pink,
+      #fff
+      ); */
+    background-color: rgba(255, 245, 245, 0.93);
+
+}
+
+#desc{
+    letter-spacing: 10px;
+}
+
+#imgbrand img{
+    /* width:150px; */
+    height:150px;
+    /* border:solid gray 3px; */
+    border-radius: 50px;
+    vertical-align: middle;
+    filter: drop-shadow(0px 0px 5px #333);
+    animation : bordering 4s infinite;
+}
+
+@keyframes bordering{
+    0%{
+        border-radius: 75px 60px 60px 60px;
+    }
+    25%{
+        border-radius: 60px 75px 60px 60px;
+    }
+
+    50%{
+        border-radius: 60px 60px 75px 60px;
+    }
+
+    75%{
+        border-radius: 60px 60px 60px 75px;
+    }
+
+    100%{
+        border-radius: 75px 60px 60px 60px;
+    }
+
+}

@@ -1,0 +1,24 @@
+#broken img{
+    width: 100%;
+    max-width: 250px;
+}
+
+#broken{
+    border:solid #333 1px;
+    /* border-radius:25px 0px 25px 0px; */
+    border-radius:25px;
+    background: #f8f8f8;
+    filter: drop-shadow(1px 1px 10px #dbdbdb); 
+    animation: rubberBand 1s 1s 1;
+}
+
+#brokendesc{
+}
+
+.qcq{
+    font-size:100px;
+}
+
+.desc{
+    font-size:20px;
+}
