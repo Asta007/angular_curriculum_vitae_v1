@@ -1,0 +1,11 @@
+[
+    {
+        "mail":"mail@gmail.com",
+        "suggestion":"this is a suggestion from a visitor",
+    },
+    {
+        "mail":"mail2@gmail.com",
+        "suggestion":"this is a second suggestion from a second visitor",
+    }
+    
+]

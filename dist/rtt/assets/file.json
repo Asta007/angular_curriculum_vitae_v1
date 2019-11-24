@@ -1,0 +1,68 @@
+[
+    {
+        "titre" : "Angular 6+",
+        "niveau" : 80,
+        "comment" : "Framework",
+        "img" : "angular.jpg"
+    },
+    {
+        "titre" : "Symfony 4+",
+        "niveau" : 70,
+        "comment" : "Framework",
+        "img" : "symfony.jpg"
+    },
+    {
+        "titre" : "Bootstrap 3+",
+        "niveau" : 85,
+        "comment" : "Librarie Css",
+        "img" : "bootstrap.jpg"
+    },
+    {
+        "titre" : "Html5 & Css3",
+        "niveau" : 90,
+        "comment" : "Langage",
+        "img" : "html_css.jpg"
+    },
+    {
+        "titre" : "Ionic 4+",
+        "niveau" : 60,
+        "comment" : "Framework",
+        "img" : "ionic.jpg"
+    },
+    {
+        "titre" : "Javascript",
+        "niveau" : 50,
+        "comment" : "Langage",
+        "img" : "javascript.jpg"
+    },
+    {
+        "titre" : "Php",
+        "niveau" : 70,
+        "comment" : "Langage",
+        "img" : "php.jpg"
+    },
+    {
+        "titre" : "Sql",
+        "niveau" : 70,
+        "comment" : "Langage",
+        "img" : "sql.jpg"
+    },
+    {
+        "titre" : "Spring boot",
+        "niveau" : 50,
+        "comment" : "Framework",
+        "img" : "spring.jpg"
+    },
+    {
+        "titre" : "Balsamiq",
+        "niveau" : 80,
+        "comment" : "Outil de maquettage Web",
+        "img" : "balsamiq.jpg"
+    },
+    {
+        "titre" : "Photoshop",
+        "niveau" : 80,
+        "comment" : "",
+        "img" : "ps.jpg"
+    }
+]
