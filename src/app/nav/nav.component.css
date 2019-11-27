@@ -32,6 +32,10 @@
     animation : bordering 4s infinite;
 }
 
+.nav ul li a:hover{
+  cursor: pointer;
+}
+
 @keyframes bordering{
     0%{
         border-radius: 75px 60px 60px 60px;
